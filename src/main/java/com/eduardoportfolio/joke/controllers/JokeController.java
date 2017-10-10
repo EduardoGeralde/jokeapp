@@ -1,4 +1,4 @@
-package com.eduardoportfolio.joke.controller;
+package com.eduardoportfolio.joke.controllers;
 
 import com.eduardoportfolio.joke.services.JokeService;
 import org.springframework.beans.factory.annotation.Autowired;
